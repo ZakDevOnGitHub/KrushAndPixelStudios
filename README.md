@@ -6,4 +6,6 @@ KrushTheDeveloper: Hello there! My name is KrushTheDeveloper, but most people ca
 His name is Sharky! My friend PixelR helped me make this bot and some of the features possible! We plan on making more bots under our
 team as Krush and Pixel Studios! (K&P Studios)
 
-PixelR: PIXEL TYPE SOME STUFF HERE!
+PixelR: Hello there! My name is PixelR, but you can call me Pixel. I'm also a ROBLOX game developer that makes ROBLOX games. However I like to take interest into other things.
+I have created the website for our studio and I hope that you like it. I just like to point out to READ THE TOS. ITS NOT VERY LONG COMPARED TO OTHER TOS OF OTHER COMPANIES.
+Also please read the Privacy Policy :)
