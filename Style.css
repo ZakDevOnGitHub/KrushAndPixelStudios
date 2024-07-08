@@ -6,7 +6,7 @@ body {
     background-color: black;
 }
 .banner {
-    height: 100vh;
+    height: 200vh;
     width: 100%;
     background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75), url(./Resources/Background.png));
     background-position: center;
