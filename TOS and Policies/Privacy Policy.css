@@ -1,5 +1,5 @@
 .banner {
-    height: 200vh;
+    height: 400vh;
     width: 100%;
     background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75), url(./Resources/Background.png));
     background-position: center;
@@ -45,4 +45,22 @@
     text-decoration: none;
     color: #fff;
     text-transform: uppercase;
+}
+
+.content {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #fff
+}
+.content h1 {
+    font-size: 70px;
+    margin-top: 80px;
+}
+.content p {
+    margin: 20px auto;
+    font-weight: 100;
+    line-height: 25px;
 }
