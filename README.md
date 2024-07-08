@@ -1,9 +1,9 @@
-This is a website for Sharky, Our latest discord bot.
-Sharky is a moderation bot combined into a fun bot. ex: Dank Memer + ModerationBot -- mod bot isnt real bot
-Sharky provides good moderation, we obviously have the basics.
-Please read the TOS and the Privacy Policy for this discord bot before you get started.
-If you have red the TOS and the Privacy Policy and would like to use Sharky, Simply add Sharky bot to your server and run the /help command
-Sharky will ask what type of help you need, example: Moderation or Fun
+Hello! Welcome to Krush and Pixel Studios, a team made possible by Discord bot developers, zakdev. (KrushTheDeveloper), and pixelr_dev (PixelR)! 
+This website has been made to showcase and provide users with high-quality Discord Bots!
+The Devs will tell you a bit about themselves!
 
-Have fun using Sharky, or if you aren't gonna use Sharky, Please evaluate if you really do not want to choose Sharky as your misc bot or moderation bot.
-We would love to know!
+KrushTheDeveloper: Hello there! My name is KrushTheDeveloper, but most people call me by Krush. I'm a ROBLOX game developer that makes ROBLOX games and also made a bot!
+His name is Sharky! My friend PixelR helped me make this bot and some of the features possible! We plan on making more bots under our
+team as Krush and Pixel Studios! (K&P Studios)
+
+PixelR: PIXEL TYPE SOME STUFF HERE!
