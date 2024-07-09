@@ -1,7 +1,7 @@
 .banner {
     height: 400vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75), url("/Resources/Background.png"));
+    background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75), url("./Resources/Background.png"));
     background-position: center;
     background-size: cover;
     padding-left: 5%;
@@ -18,7 +18,7 @@
     justify-content: space-between;
 }
 .logo {
-    width: 120px;
+    width: 200px;
     cursor: pointer;
 }
 .navbar ul li {
