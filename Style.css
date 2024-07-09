@@ -2,13 +2,10 @@
     margin: 0;
     padding: 0;
 }
-body {
-    background-color: black;
-}
 .banner {
     height: 400vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75), url(./Resources/Background.png));
+    background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75), url("/Resources/Background.png"));
     background-position: center;
     background-size: cover;
     padding-left: 5%;
