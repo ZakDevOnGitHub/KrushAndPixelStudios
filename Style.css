@@ -2,9 +2,6 @@
     margin: 0;
     padding: 0;
 }
-body {
-    background-image: url("./Resources//Background.png");
-}
 .banner {
     height: 400vh;
     width: 100%;
